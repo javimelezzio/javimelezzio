@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=true&text=HI!!%20%F0%9F%91%BB%F0%9F%91%BD%F0%9F%91%BB&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=true&text=HI!!%20%F0%9F%91%BB%F0%9F%91%BD%F0%9F%91%BB&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
@@ -52,21 +52,23 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&right_color=darkcyan&left_text=HIIIIIIII"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/w8suy992nkmaihvcq9jz2c2s9">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=w8suy992nkmaihvcq9jz2c2s9&count=5&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31xhmb75ivpzpt6asvpzhz52gfme">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xhmb75ivpzpt6asvpzhz52gfme&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
 
+<br clear="both">
+
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=true&text=Always%20learning,%20always%20building.%20%F0%9F%98%8E&fontSize=27&fontColor=000000&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=true&text=Always%20learning,%20always%20building.%20%F0%9F%98%8E&fontSize=27&fontColor=000000&fontAlign=50&fontAlignY=50&rotate=1&stroke=-&strokeWidth=0&animation=blinking&descSize=25&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
