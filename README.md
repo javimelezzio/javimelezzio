@@ -35,16 +35,6 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=maurodesouz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouz&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maurodesouz&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -68,8 +58,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31m7v3nod2u2q4qjtzx26rfoqup4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31m7v3nod2u2q4qjtzx26rfoqup4&count=5&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/w8suy992nkmaihvcq9jz2c2s9">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=w8suy992nkmaihvcq9jz2c2s9&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
