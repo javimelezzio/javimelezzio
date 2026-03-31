@@ -44,18 +44,14 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&right_color=darkcyan&left_text=HIIIIIIII"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://open.spotify.com/user/31xhmb75ivpzpt6asvpzhz52gfme">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xhmb75ivpzpt6asvpzhz52gfme&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
