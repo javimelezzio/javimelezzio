@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=true&text=HI!!%20%F0%9F%91%BB%F0%9F%91%BD%F0%9F%91%BB&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=true&text=HI!!%20%F0%9F%91%BB%F0%9F%91%BD%F0%9F%91%BB&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
 ###
@@ -53,18 +53,8 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<br clear="both">
-
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=true&text=Always%20learning,%20always%20building.%20%F0%9F%98%8E&fontSize=27&fontColor=000000&fontAlign=50&fontAlignY=50&rotate=1&stroke=-&strokeWidth=0&animation=blinking&descSize=25&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=true&text=Always%20learning,%20always%20building.%20%F0%9F%98%8E&fontSize=27&fontColor=000000&fontAlign=50&fontAlignY=50&rotate=1&stroke=-&strokeWidth=0&animation=blinking&descSize=25&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
 ###
