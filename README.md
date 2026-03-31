@@ -39,14 +39,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <p align="left">I am a Computer Systems Engineering student with a strong interest in software development, artificial intelligence, and project management. My work focuses on programming, algorithm analysis, and the practical application of digital solutions aimed at innovation and sustainability.<br>I enjoy learning new technologies and approaches, and I am continuously expanding my knowledge to improve both academically and professionally.</p>
 
 ###
@@ -62,6 +54,14 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xhmb75ivpzpt6asvpzhz52gfme&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
