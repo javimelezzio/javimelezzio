@@ -49,12 +49,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=true&text=Always%20learning,%20always%20building.%20%F0%9F%98%8E&fontSize=27&fontColor=000000&fontAlign=50&fontAlignY=50&rotate=1&stroke=-&strokeWidth=0&animation=blinking&descSize=25&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
-
-###
