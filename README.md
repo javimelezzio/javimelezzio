@@ -40,7 +40,9 @@
 
 ###
 
-<p align="left">I am a Computer Systems Engineering student with a strong interest in software development, artificial intelligence, and project management. My work focuses on programming, algorithm analysis, and the practical application of digital solutions aimed at innovation and sustainability.<br>I enjoy learning new technologies and approaches, and I am continuously expanding my knowledge to improve both academically and professionally.</p>
+<p align="left">I am a Computer Systems Engineering student with a strong interest in software development, artificial intelligence, and project management.
+
+Although I am not working professionally yet, I dedicate my free time to creating small projects that help me improve my skills and explore new technologies. I enjoy learning continuously, experimenting with new approaches, and expanding my knowledge to grow both academically and professionally.</p>
 
 ###
 
