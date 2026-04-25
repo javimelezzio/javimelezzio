@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=true&text=HI!!%20%F0%9F%91%BB%F0%9F%91%BD%F0%9F%91%BB&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking"  />
+  <img style="100%" section=header&reversal=true&text=HI!!%20%F0%9F%91%BB%F0%9F%91%BD%F0%9F%91%BB&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking"  />
 </div>
 
 ###
