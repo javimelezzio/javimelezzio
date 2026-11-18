@@ -42,13 +42,5 @@
 
 <p align="left">I am a Computer Systems Engineering student with a strong interest in software development, artificial intelligence, and project management.
 
-Although I am not working professionally yet, I dedicate my free time to creating small projects that help me improve my skills and explore new technologies. I enjoy learning continuously, experimenting with new approaches, and expanding my knowledge to grow both academically and professionally.</p>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31xhmb75ivpzpt6asvpzhz52gfme">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xhmb75ivpzpt6asvpzhz52gfme&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
